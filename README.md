@@ -1,2 +1,2 @@
 # ARM-Devel
-This repoholdsmyprojects and documentation regarding development of solutions for STM32 ARM boards.
+This repo holds my projects and documentation. Those regard development of solutions for STM32 ARM boards.
